@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yusefabbas
 - 👀 I’m interested in Software development, game development 
 - 🌱 I’m currently learning React native
-- 💞️ I’m looking to collaborate on making games
+- 💞️ I’m looking to collaborate on developing good Applications
 - 📫 How to reach me to finish a project
 
 <!---
